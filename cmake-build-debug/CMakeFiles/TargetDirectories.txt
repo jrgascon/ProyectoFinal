@@ -1,0 +1,3 @@
+D:/WorkSpace/Proyectos/Clion/EsteRPG/cmake-build-debug/CMakeFiles/EsteRPG.dir
+D:/WorkSpace/Proyectos/Clion/EsteRPG/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/WorkSpace/Proyectos/Clion/EsteRPG/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,9 @@
+# ninja log v5
+1679	2670	7337078776713083	CMakeFiles/EsteRPG.dir/Batalla.cpp.obj	80a6fab58770a697
+54	1761	7337078767557242	CMakeFiles/EsteRPG.dir/GuerreroHechicero.cpp.obj	6adbde6347b21b58
+47	1756	7337078766779355	CMakeFiles/EsteRPG.dir/Guerrero.cpp.obj	613401479a3e6b27
+17	2518	7338110202180756	CMakeFiles/EsteRPG.dir/Personaje.cpp.obj	12a1124d26ccaf88
+63	1899	7337078768993425	CMakeFiles/EsteRPG.dir/Equipo.cpp.obj	18789b9fbdcf00c1
+59	1689	7337078766779355	CMakeFiles/EsteRPG.dir/Hechicero.cpp.obj	7be550b3b2e9b653
+3	1760	7337078766859114	CMakeFiles/EsteRPG.dir/main.cpp.obj	2a26adc1727ba0d8
+2519	3763	7338110214592961	EsteRPG.exe	f25af677ef9c0a1e
